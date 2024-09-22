@@ -1,0 +1,40 @@
+
+ Pandas
+
+ 1. Data Filtering
+ Keywords: df.loc[], Filtering
+ Rows are selected where the "Sex" column equals "M", isolating male powerlifters. This targeted approach ensures that subsequent analyses focus only on relevant data.
+
+ 2. Grouping and Counting
+ Keywords: groupby(), size(), Aggregation
+ The data is grouped by "State," and the size() function counts occurrences, resulting in a new DataFrame that shows the number of male powerlifters from each state. This aggregation facilitates easy comparisons.
+
+ 3. Sorting Data
+ Keywords: sort_values(), Sorting
+ The DataFrame is sorted in descending order based on the "count" of male powerlifters. This sorting allows for quick identification of the top states, streamlining further analysis.
+
+ 4. Age Group Creation
+ Keywords: pd.cut(), Binning, Age Groups
+ Age data is segmented into predefined ranges using pd.cut(), simplifying the analysis of trends across age groups and making comparisons easier.
+
+ 5. Grouping by Age and Sex
+ Keywords: groupby(), Multidimensional Analysis
+ Data is grouped by both age and sex, reshaping the counts for visualization. This multidimensional approach reveals insights into demographic distributions.
+
+ Matplotlib
+
+ 1. Visualization with Pie Chart
+ Keywords: plt.pie(), Visualization, Pie Chart
+ A pie chart is generated to visually represent the distribution of men across states. Labels and percentage displays enhance understanding of the proportions.
+
+ 2. Visualization with Bar Chart
+ Keywords: plt.bar(), Bar Chart
+ A bar chart displays the number of male powerlifters by state, allowing for easy comparison across categories and highlighting differences effectively.
+
+ 3. Bar Chart for Age Groups
+ Keywords: kind=bar, Age Group Visualization
+ A bar chart is created to show the number of individuals in different age groups by gender. This visualization effectively communicates comparisons across multiple categories.
+
+ 4. Customization of Plots
+ Keywords: Labels, Legends, Formatting
+ Plots are customized with x and y axis labels, titles, and legends to improve clarity. This thoughtful labeling ensures that insights are easily understood.
