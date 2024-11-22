@@ -1,3 +1,8 @@
+#### 22 NOV 2024
+1) Started working on ebola and completed 5th question on Part 1
+
+2) Update the Ebola notebook in mini project (to-do)
+
 #### 20 NOV 2024
 1) Keep github updated.
 
