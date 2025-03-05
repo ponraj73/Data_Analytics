@@ -1,3 +1,14 @@
+#### 03-MAR-2025
+1. Asked to upload their updates to Git and share the link on Slack.
+2. Updated the progress in miniprojects.
+3. Asked to update according to feedback.
+
+#### 01-MAR-2025
+1. Asked to upload their updates to Git and share the link on Slack.
+2. Updated the progress in miniprojects.
+3. Asked to upload the observations to google slides
+4. Asked to start working on LaTeX.
+   
 #### 22 NOV 2024
 1) Started working on ebola and completed 5th question on Part 1
 
