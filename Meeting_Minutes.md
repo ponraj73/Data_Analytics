@@ -1,3 +1,7 @@
+#### 05-MAR-2025
+1.Asked to update the progress on github
+2. Started to work in LaTeX
+
 #### 03-MAR-2025
 1. Asked to upload their updates to Git and share the link on Slack.
 2. Updated the progress in miniprojects.
