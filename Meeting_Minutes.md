@@ -1,6 +1,12 @@
+#### 15-MAR-2025
+1. Asked to complete the feedbacks which is given on the pervious cls session.
+
+#### 08-MAR-2025
+1. Asked to focus on the feedback updation on the github.
+
 #### 05-MAR-2025
-1.Asked to update the progress on github.
-2.Started to work in LaTeX.
+1. Asked to update the progress on github.
+2. Started to work in LaTeX.
 
 #### 03-MAR-2025
 1. Asked to upload their updates to Git and share the link on Slack.
